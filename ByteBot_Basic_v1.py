@@ -1,6 +1,5 @@
 import pyjokes
 
-
 print("Hello! I'm ByteBot.\nType 'bye' to exit.")
 
 while True:
