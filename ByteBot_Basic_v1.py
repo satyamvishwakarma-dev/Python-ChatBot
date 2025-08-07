@@ -51,5 +51,18 @@ while True:
     elif 'what is dsa' in user_input:
         print("ByteBot: DSA means Data Structures and Algorithms — the building blocks of smart coding.")
 
+    elif 'can you help me' in user_input:
+        print("ByteBot: Sure... What is it??")
+
+    elif 'i am feeling down' in user_input:
+        print("ByteBot: It's ok to feel down some days but don't let this ruin your day\n"
+              "Problems are temporary but life is forever\n"
+              "so, dont worry if you have any problem, solve it.\n"
+              "as lord krishna says: karm karo fal ki chinta mat karo\n"
+              "and here is a joke \""+joke+"\"")
+
+    elif 'thanks' in user_input or 'thx' in user_input:
+        print("ByteBot: I am always here for you\ndont worry")
+
     else:
         print("ByteBot: Hmm... I didn’t get that. Try asking something else.\nI am still under development")
