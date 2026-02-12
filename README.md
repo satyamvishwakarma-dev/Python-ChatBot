@@ -34,6 +34,6 @@ This project is perfect for beginners learning Python, especially those explorin
 -ByteBot: Why do programmers prefer dark mode? Because light attracts bugs 😂  
 
 ## 👨‍💻 Created By
-Satyam — aspiring coder and chatbot enthusiast
+Satyam Vishwakarma — aspiring coder and chatbot enthusiast
 
 This project was made as part of my journey to learn Python, logic building, and terminal interaction
